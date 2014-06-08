@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[lica's life note]]></title>
-  <link href="http://licadoll.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: about | lica's life note]]></title>
+  <link href="http://licadoll.github.io/blog/categories/about/atom.xml" rel="self"/>
   <link href="http://licadoll.github.io/"/>
   <updated>2014-06-08T23:27:39+09:00</updated>
   <id>http://licadoll.github.io/</id>
