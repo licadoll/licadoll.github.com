@@ -2,22 +2,42 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://licadoll.github.io/blog/2014/06/08/fastable/</loc>
-        <lastmod>2014-06-08T23:27:34+09:00</lastmod>
+        <lastmod>2014-06-10T01:06:35+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://licadoll.github.io/blog/2014/06/10/nowstatus/</loc>
+        <lastmod>2014-06-10T01:09:13+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://licadoll.github.io/about/</loc>
+        <lastmod>2014-06-10T01:06:35+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://licadoll.github.io/archives/</loc>
+        <lastmod>2014-06-10T01:09:13+09:00</lastmod>
     </url>
     <url>
         <loc>http://licadoll.github.io/blog/archives/</loc>
-        <lastmod>2014-06-08T23:27:34+09:00</lastmod>
+        <lastmod>2014-06-10T01:09:13+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://licadoll.github.io/blog/</loc>
+        <lastmod>2014-06-10T01:09:13+09:00</lastmod>
     </url>
     <url>
         <loc>http://licadoll.github.io/</loc>
-        <lastmod>2014-06-08T23:27:34+09:00</lastmod>
+        <lastmod>2014-06-10T01:09:13+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://licadoll.github.io/posts/about.html</loc>
+        <lastmod>2014-06-10T01:06:35+09:00</lastmod>
     </url>
     <url>
         <loc>http://licadoll.github.io/posts/</loc>
-        <lastmod>2014-06-08T23:27:34+09:00</lastmod>
+        <lastmod>2014-06-10T01:09:13+09:00</lastmod>
     </url>
     <url>
         <loc>http://licadoll.github.io/robots.txt</loc>
-        <lastmod>2014-06-08T22:04:03+09:00</lastmod>
+        <lastmod>2014-06-10T01:06:35+09:00</lastmod>
     </url>
 </urlset>
